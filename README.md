@@ -16,4 +16,5 @@
    Стек: python, pandas, numpy, scipy, sklearn, matplotlib, lightgbm, category_encoders.
 
    | Проект | Цели | Стек |
-   | Ячека | bff | ffd |
+   |------- | ---- | ---- |
+   | Ячека  | bff  | ffd  |
