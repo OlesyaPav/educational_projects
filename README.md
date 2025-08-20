@@ -12,6 +12,6 @@
    |Оценка риска ДТП по выбранному маршруту движения|Создать модель предсказания ДТП|pandas, matplotlib, datetime, time, numpy, seaborn, phik, torch, torchmetrics, random, pickle, shap|
    |Прогнозироваение заказов такси|Построить модель предсказания такси на следующий час|pandas, numpy, time, os, matplotlib.pyplot, matplotlib.dates|
    | Проект для «Викишоп» BERT | Обучить модель классифицировать комментарии пользователей на позитивные и негативные | python, string, torch, transformers, numpy, pandas, os, time, torch.nn, matplotlib.pyplot, seaborn, nltk |
-   |Компютерное зрение|Построить модель, которая по фотографии определит приблизительный возраст человека|pandas, matplotlib.pyplot, numpy, tensorflow, tensorflow.keras, sklearn|
+   |Компьютерное зрение|Построить модель, которая по фотографии определит приблизительный возраст человека|pandas, matplotlib.pyplot, numpy, tensorflow, tensorflow.keras, sklearn|
 
 >>>>>>> Stashed changes
